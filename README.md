@@ -4,7 +4,7 @@ This is based on the [Gist](https://gist.github.com/lindsaymarkward/22f45af5a6f0
 [HASS community discussion](https://community.home-assistant.io/t/hassbian-install-script-for-homebridge/14883)
 
 ### :warning: note
-**Only tested on Raspberry Pi 3 with Hassbian after [clean install](https://home-assistant.io/docs/hassbian/installation/) and you already setup home assistant.** <br>
+**Only tested on Raspberry Pi 3 with Hassbian after [clean install](https://home-assistant.io/docs/hassbian/installation/) and you already have home assistant up and running.** <br>
 this is the work of a noob.. proceed with caution.. :wink:  
 
 ## Install
