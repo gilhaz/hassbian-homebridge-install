@@ -3,7 +3,9 @@ Auto install homebridge on Raspberry Pi running Hassbian and configure homebridg
 This is based on the [Gist](https://gist.github.com/lindsaymarkward/22f45af5a6f05b3908e1f96d064104ba) of lindsaymarkward. <br>
 [HASS community discussion](https://community.home-assistant.io/t/hassbian-install-script-for-homebridge/14883)
 
-:warning: **Note, Only tested on Raspberry Pi 3 with Hassbian after [clean install](https://home-assistant.io/docs/hassbian/installation/) and you already setup home assistant.**
+### :warning: note :warning:
+**Only tested on Raspberry Pi 3 with Hassbian after [clean install](https://home-assistant.io/docs/hassbian/installation/) and you already setup home assistant.** <br>
+this is the work of a noob.. proceed with caution.. :wink:  
 
 ## Install
 * Download the 'hassbian-homebridge-install.sh' script or copy his contant and save it.
