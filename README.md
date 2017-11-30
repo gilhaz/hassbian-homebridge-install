@@ -15,7 +15,7 @@ chmod +x hassbian-homebridge-install.sh
 ```
 * run the script as pi user with sudo.
 ```
-sudo /hassbian-homebridge-install.sh
+sudo ./hassbian-homebridge-install.sh
 ```
 * when prompt enter your Home Assistant host ip and host password.
 * *enjoy. :)*
